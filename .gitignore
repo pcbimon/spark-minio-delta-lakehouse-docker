@@ -1,2 +1,4 @@
 minio-data/
 hadoop-libs/*.jar
+**/.ipynb_checkpoints/
+**/tmp/
